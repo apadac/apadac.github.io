@@ -1,1 +1,0 @@
-# apadac.github.io
