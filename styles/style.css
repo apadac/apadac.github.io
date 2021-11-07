@@ -12,6 +12,7 @@ li {
   display:inline;
   background-color: #04AA6D;
   color: white;
+  border: none;
 }
 
 img.gallery {
