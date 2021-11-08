@@ -15,7 +15,7 @@ li {
   border: none;
 }
 
-img.gallery {
+div.gallery {
   width: 100px;
   height: 100px;
   margin: auto;
