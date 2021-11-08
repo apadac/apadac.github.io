@@ -16,8 +16,8 @@ li {
 }
 
 img.gallery {
-  width: 30%;
-  height: 30%;
+  width: 100px;
+  height: 100px;
   margin: auto;
 }
 
